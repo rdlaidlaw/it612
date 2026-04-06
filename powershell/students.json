@@ -1,0 +1,14 @@
+ [
+   {"name": "Alice", "course": "CS101", "grade": 92, "semester": "Fall"},
+   {"name": "Bob", "course": "CS101", "grade": 78, "semester": "Fall"},
+   {"name": "Charlie", "course": "CS201", "grade": 88, "semester": "Fall"},
+   {"name": "Alice", "course": "CS201", "grade": 95, "semester": "Fall"},
+   {"name": "Diana", "course": "CS101", "grade": 65, "semester": "Spring"},
+   {"name": "Bob", "course": "CS201", "grade": 82, "semester": "Spring"},
+   {"name": "Eve", "course": "CS101", "grade": 91, "semester": "Spring"},
+   {"name": "Charlie", "course": "CS101", "grade": 73, "semester": "Spring"},
+   {"name": "Alice", "course": "CS301", "grade": 97, "semester": "Spring"},
+   {"name": "Diana", "course": "CS201", "grade": 71, "semester": "Spring"},
+   {"name": "Frank", "course": "CS101", "grade": 84, "semester": "Fall"},
+   {"name": "Eve", "course": "CS201", "grade": 89, "semester": "Fall"}
+]
